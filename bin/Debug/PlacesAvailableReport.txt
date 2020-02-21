@@ -1,0 +1,22 @@
+Name of Event :- Location1 - Number of places available, Location2 - Number of places available...
+
+1.Murder Mystery Weekend :- Cork - 34, Dublin - 67, Galway - 12, Bellmullet - 77, Belfast - 32
+
+2.CSI Weekend :- Cork - 28, Dublin - 3, Galway - 32, Bellmullet - 12, Belfast - 7
+
+3.The Great Outdoors :- Cork - 23, Dublin - 2, Galway - 6, Bellmullet - 4, Belfast - 3
+
+4.The Chase :- Cork - 12, Dublin - 6, Galway - 9, Bellmullet - 4, Belfast - 6
+
+5.Digital Refresh :- Cork - 2, Dublin - 0, Galway - 7, Bellmullet - 5, Belfast - 8
+
+6.Action Photography :- Cork - 1, Dublin - 8, Galway - 4, Bellmullet - 7, Belfast - 4
+
+7.Team Ryder Cup :- Cork - 16, Dublin - 24, Galway - 40, Bellmullet - 4, Belfast - 12
+
+8.Abseiling :- Cork - 3, Dublin - 7, Galway - 45, Bellmullet - 3, Belfast - 3
+
+9.War Games :- Cork - 45, Dublin - 12, Galway - 56, Bellmullet - 12, Belfast - 23
+
+10.Find Wally :- Cork - 0, Dublin - 0, Galway - 3, Bellmullet - 0, Belfast - 0
+
